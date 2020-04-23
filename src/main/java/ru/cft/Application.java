@@ -55,7 +55,6 @@ public class Application {
     private static String pass;
     private static String path = ".";
     private static String def_base = "AML";
-    private static String aql_file = "./aql";
     private static int batch_size = 10000;
     private static String aql;
 
